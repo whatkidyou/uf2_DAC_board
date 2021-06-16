@@ -1,3 +1,5 @@
+starting clone of the adafruit uf2
+
 # UF2 Bootloader
 
 This repository contains a bootloader, derived from Atmel's SAM-BA,
